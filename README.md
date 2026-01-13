@@ -2,9 +2,9 @@
 
 <h3>◦ Software Developer | 1000Devs Apprentice | Python | Java</h3>
 
-<p>Technology and Software Development enthusiast, building foundations in Python/Java, Databases, and Systems Analysis — Leveraging my background in Design to deliver creative and detail-oriented solutions for problem-solving. 🧑‍💻</p> 
+<p>Technology and Software Development enthusiast, building foundations in Python/Java, Databases, and Systems Analysis — Leveraging my background in Design to deliver creative and detail-oriented solutions for solving problems. 🧑‍💻</p> 
 
-<i>Portuguese | English</i><br>
+<i>Portuguese (Native) | English (Fluent)</i><br>
 
 → Check out my <a href= "https://www.linkedin.com/in/eybraian-bonifacio/?locale=en_US"> LinkedIn! </a> 👈
 
