@@ -1,8 +1,11 @@
 ## Hey! I'm Eybraian 🕵️
 
-<h3>◦ Software Developer | 1000Devs Apprentice | Python | Java</h3>
+<h3>◦ Fullstack Developer | Python | Java | Spring | 1000Devs</h3>
 
-<p>Technology and Software Development enthusiast, building foundations in Python/Java, Databases, and Systems Analysis — Leveraging my background in Design to deliver creative and detail-oriented solutions for solving problems. 🧑‍💻</p> 
+<p>Focused on Java and Python, currently transitioning careers after 5 years in Design 🧑‍💻</p>
+
+  <p>— Currently pursuing a degree in Systems Analysis and Development at Universidade Estácio de Sá.</p>
+  <p>— Interdisciplinary Bachelor’s degree in Arts & Design from the Federal University of Juiz de Fora (MG), with  focus on Digital Media.</p> 
 
 <i>Portuguese (Native) | English (Fluent)</i><br>
 
